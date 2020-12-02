@@ -1,9 +1,9 @@
-# Lookyloo scraping Tutorial
+# Lookyloo Scraping Tutorial
 
-This is a tutorial explainig why scraping is important, the pitfalls, limitations,
-and why lookyloo is an important tool when investigating a complex website.
+This tutorial explains why scraping is important (as well as the pitfalls and limitations) and why lookyloo is an important tool when investigating a complex website.
 
-# Target audience
+-------------------------------
 
-The target audience of this tutorial is relatively technical, but it should be relatively simple to follow along
-by anyone willing to understand how websites work.
+# Target Audience
+
+The target audience for this tutorial is relatively technical, but this tutorial should be relatively simple to follow by anyone willing to understand how websites work.

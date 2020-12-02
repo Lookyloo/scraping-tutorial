@@ -1,6 +1,6 @@
 # Lookyloo Scraping Tutorial
 
-This tutorial explains why scraping is important (as well as the pitfalls and limitations) and why lookyloo is an important tool when investigating a complex website.
+This tutorial explains why scraping is important (as well as the pitfalls and limitations) and why Lookyloo is an important tool when investigating a complex website.
 
 -------------------------------
 

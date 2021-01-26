@@ -10,6 +10,8 @@ why Lookyloo is an important tool when investigating a complex website.
 The target audience for this tutorial is relatively technical, but this tutorial should be
 relatively simple to follow by anyone willing to understand how websites work.
 
+-------------------------------
+
 # Setup guide
 
 ## Work environment
@@ -26,9 +28,10 @@ We assume you have the following environment at your disposal:
   **NOTE**: Check it by running `python -V` in a terminal.
 
 * Basic command line tools: `curl`, `wget`, `grep`, `git`
-* Poetry 1.1.0 (or more recent), preferably installed this way:
+* [Poetry](https://github.com/python-poetry/poetry) 1.1.0 (or more recent), preferably installed this way:
   ```
-  curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python3
+  curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py > get-poetry.py
+  python3 ./get-poetry.py
   ```
 
   Make sure Poetry is working by running `poetry self -V` in a terminal.

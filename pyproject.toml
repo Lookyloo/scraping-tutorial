@@ -6,9 +6,9 @@ authors = ["Raphaël Vinot <raphael@lookyloo.eu>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-jupyterlab = "^2.2.8"
-pylookyloo = "^1.4"
-pymisp = {version = "^2.4.138", extras = ["email", "fileobjects", "url"]}
+jupyterlab = "^3.2.4"
+pylookyloo = "^1.9"
+pymisp = {version = "^2.4.151", extras = ["email", "fileobjects", "url"]}
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

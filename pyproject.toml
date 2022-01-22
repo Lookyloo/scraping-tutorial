@@ -6,7 +6,7 @@ authors = ["Raphaël Vinot <raphael@lookyloo.eu>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-jupyterlab = "^3.2.4"
+jupyterlab = "^3.2.8"
 pylookyloo = "^1.10"
 pymisp = {version = "^2.4.151", extras = ["email", "fileobjects", "url"]}
 pyphishtanklookup = "^1.0.1"

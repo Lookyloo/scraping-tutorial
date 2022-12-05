@@ -5,15 +5,15 @@ description = "A developer-oriented tutorial to understand what lookyloo is for"
 authors = ["Raphaël Vinot <raphael@lookyloo.eu>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-jupyterlab = "^3.4.5"
-pylookyloo = "^1.14.2"
-pymisp = {version = "^2.4.160.1", extras = ["email", "fileobjects", "url"]}
+python = "^3.10"
+jupyterlab = "^3.5.1"
+pylookyloo = "^1.16.0"
+pymisp = {version = "^2.4.166", extras = ["email", "fileobjects", "url"]}
 pyphishtanklookup = "^1.1"
 
 [tool.poetry.dev-dependencies]
-pytest = "^7.1.2"
+pytest = "^7.2.0"
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry-core>=1.1"]
 build-backend = "poetry.core.masonry.api"
